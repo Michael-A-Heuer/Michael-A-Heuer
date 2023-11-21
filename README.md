@@ -12,8 +12,8 @@
 
 - 🦀 I'm a rustacean working on side projects for fun:
 
-  - 🧾 [Staking tax](https://github.com/Michael-A-Heuer/staking-tax) calculator using [`tokio`](https://crates.io/crates/tokio), [`ethers-rs`](https://crates.io/crates/ethers-rs), [`dioxus`](https://crates.io/crates/dioxus)
-  - 〰️ [B-Spline library](https://github.com/Michael-A-Heuer/staking-tax) using `nalgebra`
+  - 🧾 [Staking tax](https://github.com/Michael-A-Heuer/staking-tax) calculator using [`tokio`](https://crates.io/crates/tokio), [`ethers-rs`](https://crates.io/crates/ethers), [`dioxus`](https://crates.io/crates/dioxus)
+  - 〰️ [B-Spline library](https://github.com/Michael-A-Heuer/staking-tax) using [`nalgebra`](https://crates.io/crates/nalgebra)
 
 Connect with me on [Farcaster <img align="center" src="https://avatars.githubusercontent.com/u/98775309" alt="michael_a_heuer" height="20" width="20"/>](https://warpcast.com/heuer.eth) or [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="michael_a_heuer" height="15" width="15"/>](https://twitter.com/Michael_A_Heuer)
 
