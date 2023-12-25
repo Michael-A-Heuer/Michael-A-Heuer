@@ -52,3 +52,5 @@ Connect with me on [Farcaster <img align="center" src="https://avatars.githubuse
   width="40"
   height="40"
 />
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-A-Heuer)](https://github.com/Michael-A-Heuer/github-readme-stats)
