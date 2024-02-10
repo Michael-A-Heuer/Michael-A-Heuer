@@ -19,7 +19,7 @@
 - 🦀 I am a freshly hatched rustacean working on side projects for fun:
 
   - 〰️ [B-Spline library](https://docs.rs/bsplines) using [`nalgebra`](https://crates.io/crates/nalgebra)
-  - 🧾 [Staking-tax](https://github.com/Michael-A-Heuer/staking-tax), a calculator for staking earnings on ethereum using [`tokio`](https://crates.io/crates/tokio), [`ethers-rs`](https://crates.io/crates/ethers), and [`dioxus`](https://crates.io/crates/dioxus).
+  - 🧾 [Staking-tax](https://github.com/Michael-A-Heuer/staking-tax), a calculator for staking earnings on ethereum using [`tokio`](https://crates.io/crates/tokio) and [`ethers-rs`](https://crates.io/crates/ethers)
 
 
 
