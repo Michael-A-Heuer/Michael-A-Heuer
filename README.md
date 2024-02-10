@@ -1,25 +1,26 @@
 ## Software Engineer & Researcher
 
-- 👋 I am Michael and enthusiastic about **free open-source software** and **decentralization**.
+👋 I am Michael and enthusiastic about **free open-source software** and **decentralization**.
 
-- 👨‍💻 I solve complex problems with well-abstracted code.
+👨‍💻 I solve complex problems with well-abstracted code.
 
-- 🎓 I have a [Ph.D. in Theoretical Chemistry](https://publications.rwth-aachen.de/record/829410/files/829410.pdf).
+🎓 I have a [Ph.D. in Theoretical Chemistry](https://publications.rwth-aachen.de/record/829410/files/829410.pdf).
 
-- 🌱 I want to work on meaningful and sustainable projects that leave a mark.
+🌱 I want to work on meaningful and sustainable projects that leave a mark.
 
-- 🦅 I’m currently working at [Aragon](https://aragon.org) as a [Software Engineer & Researcher](https://blog.aragon.org/welcoming-michael-heuer-as-solidity-developer-and-researcher-at-the-aragon-association/), where I spear-head the architecture of Aragon OSx ([1](https://github.com/aragon/osx), [2](https://github.com/aragon/osx-commons), [3](https://github.com/aragon/osx-plugin-template-hardhat)).
+🦅 I’m currently working at [Aragon](https://aragon.org) as a [Software Engineer & Researcher](https://blog.aragon.org/welcoming-michael-heuer-as-solidity-developer-and-researcher-at-the-aragon-association/), where I spear-head the architecture of Aragon OSx ([1](https://github.com/aragon/osx), [2](https://github.com/aragon/osx-commons), [3](https://github.com/aragon/osx-plugin-template-hardhat)).
 
-- 🧙 I wrote performance critical C++ code for the HPC clusters at RWTH Aachen University and ETH Zurich:
+🧙 I wrote performance critical C++ code for the HPC clusters at RWTH Aachen University and ETH Zurich:
 
-  - 🔱 [inPsights](https://github.com/luechow-group/inPsights), a clustering, analysis, and visualization tool for high-dimensional electronic structure data
+- 🔱 [inPsights](https://github.com/luechow-group/inPsights), a clustering, analysis, and visualization tool for high-dimensional electronic structure data
 
-  - 🏔️ [Path-processing algorithms](https://arxiv.org/abs/1801.02100) and related [B-Spline libraries](https://github.com/qcscine/utilities/tree/master/src/Utils/Utils/Math/BSplines) for the [SCINE project](https://scine.ethz.ch)
+- 🏔️ [Path-processing algorithms](https://arxiv.org/abs/1801.02100) and related [B-Spline libraries](https://github.com/qcscine/utilities/tree/master/src/Utils/Utils/Math/BSplines) for the [SCINE project](https://scine.ethz.ch)
 
-- 🦀 I am a freshly hatched rustacean working on side projects for fun:
+🦀 I am a freshly hatched rustacean working on side projects for fun:
 
-  - 〰️ [B-Spline library](https://docs.rs/bsplines) using [`nalgebra`](https://crates.io/crates/nalgebra)
-  - 🧾 [Staking-tax](https://github.com/Michael-A-Heuer/staking-tax), a calculator for staking earnings on ethereum using [`tokio`](https://crates.io/crates/tokio) and [`ethers-rs`](https://crates.io/crates/ethers)
+- 〰️ [B-Spline library](https://docs.rs/bsplines) using [`nalgebra`](https://crates.io/crates/nalgebra)
+
+- 🧾 [Staking-tax](https://github.com/Michael-A-Heuer/staking-tax), a calculator for staking earnings on ethereum using [`tokio`](https://crates.io/crates/tokio) and [`ethers-rs`](https://crates.io/crates/ethers)
 
 
 
