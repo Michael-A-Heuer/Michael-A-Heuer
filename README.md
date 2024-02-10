@@ -27,27 +27,27 @@ Connect with me on [Farcaster <img align="center" src="https://avatars.githubuse
 ### Languages
 
 <a href="https://soliditylang.org"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg"
   alt="solidity"
   width="40"
   height="40"
 /></a><a href="https://rust-lang.org"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
   alt="rust"
   width="40"
   height="40"
 /></a><a href="https://isocpp.org"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
   alt="cplusplus"
   width="40"
   height="40"
 /></a><a href="https://www.python.org"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   alt="python"
   width="40"
   height="40"
 /></a><a href="https://www.typescriptlang.org"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
   alt="typescript"
   width="40"
   height="40"
