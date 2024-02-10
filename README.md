@@ -8,7 +8,7 @@
 
 - 🌱 I want to work on meaningful and sustainable projects that leave a mark.
 
-- 🦅 I’m currently working at [Aragon](https://aragon.org/aragonosx) as a [Software Engineer & Researcher](https://blog.aragon.org/welcoming-michael-heuer-as-solidity-developer-and-researcher-at-the-aragon-association/).
+- 🦅 I’m currently working at [Aragon](https://aragon.org) as a [Software Engineer & Researcher](https://blog.aragon.org/welcoming-michael-heuer-as-solidity-developer-and-researcher-at-the-aragon-association/), where I spear-head the architecture of Aragon OSx ([1](https://github.com/aragon/osx), [2](https://github.com/aragon/osx-commons), [3](https://github.com/aragon/osx-plugin-template-hardhat)).
 
 - 🧙 I wrote performance critical C++ code for the HPC clusters at RWTH Aachen University and ETH Zurich:
 
@@ -18,9 +18,10 @@
 
 - 🦀 I am a freshly hatched rustacean working on side projects for fun:
 
+  - 〰️ [B-Spline library](https://docs.rs/bsplines) using [`nalgebra`](https://crates.io/crates/nalgebra)
   - 🧾 [Staking-tax](https://github.com/Michael-A-Heuer/staking-tax), a calculator for staking earnings on ethereum using [`tokio`](https://crates.io/crates/tokio), [`ethers-rs`](https://crates.io/crates/ethers), and [`dioxus`](https://crates.io/crates/dioxus).
 
-  - 〰️ [B-Spline library](https://github.com/Michael-A-Heuer/bsplines) using [`nalgebra`](https://crates.io/crates/nalgebra)
+
 
 Connect with me on [Farcaster <img align="center" src="https://avatars.githubusercontent.com/u/98775309" alt="heuer.eth" height="20" width="20"/>](https://warpcast.com/heuer.eth) or [<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Michael_A_Heuer" height="15" width="15"/> (formerly Twitter)](https://twitter.com/Michael_A_Heuer)
 
