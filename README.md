@@ -10,7 +10,7 @@
 
 🦅 I’m currently working at [Aragon](https://aragon.org) as a [Software Engineer & Researcher](https://blog.aragon.org/welcoming-michael-heuer-as-solidity-developer-and-researcher-at-the-aragon-association/), where I spear-head the architecture of Aragon OSx ([1](https://github.com/aragon/osx), [2](https://github.com/aragon/osx-commons), [3](https://github.com/aragon/osx-plugin-template-hardhat)).
 
-🧙 I wrote performance critical C++ code for the HPC clusters at RWTH Aachen University and ETH Zurich:
+🧙 I wrote performance critical C++ code at RWTH Aachen University and ETH Zurich for the computing clusters:
 
 - 🔱 [inPsights](https://github.com/luechow-group/inPsights), a clustering, analysis, and visualization tool for high-dimensional electronic structure data
 
